@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RandomNumCmp</string>
+    <string name="noNum">--</string>
+    <string name="true_false">True/False</string>
+    <string name="_1st_number">1st number</string>
+    <string name="_2nd_number">2nd number</string>
+    <string name="click_for_number">Click for number</string>
+    <string name="greaterSymbol"><![CDATA[>]]></string>
+    <string name="equalSymbol">=</string>
+    <string name="smallerSymbol"><![CDATA[<]]></string>
+</resources>
